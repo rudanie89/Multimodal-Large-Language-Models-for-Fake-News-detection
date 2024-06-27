@@ -10,9 +10,9 @@
 | Misinformation as a Harm Structured Approaches for Fact-Checking Prioritization | Journal| [Link](https://dl.acm.org/doi/pdf/10.1145/3641010) | |
 |---------------|-------|------|------|
 | MRDCA: a multimodal approach for fine-grained fake news detection through integration of RoBERTa and DenseNet based upon fusion mechanism of co-attention | | ||
-|---------------|-------|------|------|
+
 |  | | [Link]() | [Code]()|
-|---------------|-------|------|------|
+
 |  | | [Link]() | [Code]()|
 
 ## Some papers -- can't access
