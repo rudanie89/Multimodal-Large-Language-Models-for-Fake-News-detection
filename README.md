@@ -23,6 +23,9 @@
 
 |Beyond Text: Multimodal Credibility Assessment Approaches for Online User-Generated Content| [Link]() | [Code]()|
 
+|Multimodal Stacked Cross Attention Network for Fine-Grained Fake News Detection| | [Code](https://github.com/zhoqiah/MSCA)|
+
+
 ## Some papers -- can't access
 | Paper's title | Venue | Link | Code |
 |---------------|-------|------|------|
