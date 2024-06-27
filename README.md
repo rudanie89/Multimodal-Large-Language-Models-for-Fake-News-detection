@@ -5,7 +5,7 @@
 |---------------|-------|------|------|
 | Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources | | [Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Abdelnabi_Open-Domain_Content-Based_Multi-Modal_Fact-Checking_of_Out-of-Context_Images_via_Online_Resources_CVPR_2022_paper.pdf) | [Code](https://github.com/S-Abdelnabi/OoC-multi-modal-fc)|
 
-|  | | [Link]() | [Code]()|
+| RED-DOT: Multimodal Fact-checking via Relevant Evidence Detection | | [Link](https://arxiv.org/abs/2311.09939) | [Code](https://github.com/stevejpapad/relevant-evidence-detection)|
 |  | | [Link]() | [Code]()|
 |  | | [Link]() | [Code]()|
 |  | | [Link]() | [Code]()|
