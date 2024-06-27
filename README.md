@@ -3,7 +3,7 @@
 
 | Paper's title | Venue | Link | Code |
 |---------------|-------|------|------|
-| Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources | | [Link](Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources) | [Code](https://github.com/S-Abdelnabi/OoC-multi-modal-fc)|
+| Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources | | [Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Abdelnabi_Open-Domain_Content-Based_Multi-Modal_Fact-Checking_of_Out-of-Context_Images_via_Online_Resources_CVPR_2022_paper.pdf)) | [Code](https://github.com/S-Abdelnabi/OoC-multi-modal-fc)|
 
 ## Some papers -- can't access
 | Paper's title | Venue | Link | Code |
