@@ -10,21 +10,15 @@
 | Misinformation as a Harm Structured Approaches for Fact-Checking Prioritization | Journal| [Link](https://dl.acm.org/doi/pdf/10.1145/3641010) | |
 |---------------|-------|------|------|
 | MRDCA: a multimodal approach for fine-grained fake news detection through integration of RoBERTa and DenseNet based upon fusion mechanism of co-attention | | ||
-
 |  A Multi-Modal Method for Satire Detection using Textual and Visual Cues| | [Link](https://arxiv.org/abs/2010.06671) | [Code](https://github.com/lilyli2004/satire)|
-
 |  Multi-modal transformer using two-level visual features for fake news detection| | [Link](https://link.springer.com/article/10.1007/s10489-022-04055-5) | [Code](https://github.com/cqu-wb/MTTV)|
-
 |  MIntRec: A New Dataset for Multimodal Intent Recognition| | [Link](https://dl.acm.org/doi/pdf/10.1145/3503161.3547906) | [Code](https://github.com/thuiar/MIntRec)|
-
 |  Team coco at Factify 2: Optimizing Modality Representation and Multimodal Fusion for Multimodal Fact Verification| | [Link](https://ceur-ws.org/Vol-3555/paper17.pdf) | [Code]()|
-
 |Multimodal dual emotion with fusion of visual sentiment for rumor detection|Springer | [Link](https://link.springer.com/article/10.1007/s11042-023-16732-9) | [Code]()|
-
 |Beyond Text: Multimodal Credibility Assessment Approaches for Online User-Generated Content| [Link]() | [Code]()|
-
 |Multimodal Stacked Cross Attention Network for Fine-Grained Fake News Detection| | [Code](https://github.com/zhoqiah/MSCA)|
-
+|MMM An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection| ACL | [Link](https://aclanthology.org/2022.findings-aacl.43.pdf)| [dataset](https://www.iitp.ac.in/~ai-nlp-ml/resources.html#MMM_Dataset) [code](https://github.com/vipingupta1907/MVEN)|
+|Multimodal Fake News Detection on Fakeddit Dataset Using Transformer-Based Architectures| || |
 
 ## Some papers -- can't access
 | Paper's title | Venue | Link | Code |
