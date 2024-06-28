@@ -19,7 +19,11 @@
 |Multimodal Stacked Cross Attention Network for Fine-Grained Fake News Detection| | [Code](https://github.com/zhoqiah/MSCA)|
 |MMM An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection| ACL | [Link](https://aclanthology.org/2022.findings-aacl.43.pdf)| [dataset](https://www.iitp.ac.in/~ai-nlp-ml/resources.html#MMM_Dataset) [code](https://github.com/vipingupta1907/MVEN)|
 |Multimodal Fake News Detection on Fakeddit Dataset Using Transformer-Based Architectures| || |
-
+|WarCov -- Large multilabel and multimodal dataset from social platform| | [Link](https://arxiv.org/pdf/2406.10255)| |
+|DeBERTNeXT A Multimodal Fake News Detection Framework| | [Link](https://link.springer.com/chapter/10.1007/978-3-031-36021-3_36)| |
+|Knowledge-Aware Multimodal Pre-Training for Fake News Detection| || |
+|Synergistic Detection of Multimodal Fake News Leveraging TextGCN and Vision Transformer| | || |
+|Temporal Generalizability in Multimodal Misinformation Detection|ACL| || |
 ## Some papers -- can't access
 | Paper's title | Venue | Link | Code |
 |---------------|-------|------|------|
@@ -29,7 +33,8 @@
 |---------------|-------|------|------|
 | Team Noir at Factify 2 Multimodal Fake News Detection with Pre-trained CLIP and Fusion Network | | [Link](https://ceur-ws.org/Vol-3555/paper14.pdf) ||
 | Multi-Model Fake News Detection based on Concatenation of Visual Latent Features | | [Link](https://ieeexplore.ieee.org/abstract/document/9182398) | |
-|  | | [Link]() | [Code]()|
+| Multi-level Interaction Network for Multi-Modal Rumor Detection | | [Link](https://ieeexplore.ieee.org/abstract/document/10191639?casa_token=5YiulOrr1CAAAAAA:UrobsNJ-ksPenWPFzjoJPysnm-7rQ_G2KQJnYA7Vo79fYqtnijK8YF2Fp4LeuhYllvtB2b1n) | |
+|  Elevating Fake News Detection Through Deep Neural Networks, Encoding Fused Multi-Modal Features| | [Link](https://ieeexplore.ieee.org/abstract/document/10552280) | [Code]()|
 |  | | [Link]() | [Code]()|
 # Multimodal-Large-Language-Models-for-Fake-News-detection
 Multimodal-Large-Language-Models for Fake News detection
